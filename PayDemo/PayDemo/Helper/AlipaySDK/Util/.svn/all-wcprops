@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/AlipaySDK/Util
+END
+base64.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/AlipaySDK/Util/base64.m
+END
+RSADataSigner.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/AlipaySDK/Util/RSADataSigner.m
+END
+MD5DataSigner.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/AlipaySDK/Util/MD5DataSigner.m
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/AlipaySDK/Util/config.h
+END
+DataVerifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/AlipaySDK/Util/DataVerifier.h
+END
+NSDataEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/AlipaySDK/Util/NSDataEx.h
+END
+DataVerifier.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/AlipaySDK/Util/DataVerifier.m
+END
+RSADataVerifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/AlipaySDK/Util/RSADataVerifier.h
+END
+NSDataEx.m
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/AlipaySDK/Util/NSDataEx.m
+END
+RSADataVerifier.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/AlipaySDK/Util/RSADataVerifier.m
+END
+DataSigner.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/AlipaySDK/Util/DataSigner.h
+END
+openssl_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/AlipaySDK/Util/openssl_wrapper.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/AlipaySDK/Util/base64.h
+END
+DataSigner.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/AlipaySDK/Util/DataSigner.m
+END
+RSADataSigner.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/AlipaySDK/Util/RSADataSigner.h
+END
+MD5DataSigner.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/AlipaySDK/Util/MD5DataSigner.h
+END
+openssl_wrapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/AlipaySDK/Util/openssl_wrapper.m
+END

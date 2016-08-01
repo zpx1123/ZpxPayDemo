@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/WXHelper
+END
+Constant.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/WXHelper/Constant.h
+END
+WXApiResponseHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/WXHelper/WXApiResponseHandler.m
+END
+WXMediaMessage+messageConstruct.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/WXHelper/WXMediaMessage+messageConstruct.m
+END
+WXApiRequestHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/WXHelper/WXApiRequestHandler.h
+END
+GetMessageFromWXResp+responseWithTextOrMediaMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/WXHelper/GetMessageFromWXResp+responseWithTextOrMediaMessage.h
+END
+SendMessageToWXReq+requestWithTextOrMediaMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/WXHelper/SendMessageToWXReq+requestWithTextOrMediaMessage.h
+END
+WXApiManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/WXHelper/WXApiManager.h
+END
+WXApiRequestHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/WXHelper/WXApiRequestHandler.m
+END
+WXApiResponseHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/WXHelper/WXApiResponseHandler.h
+END
+GetMessageFromWXResp+responseWithTextOrMediaMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/WXHelper/GetMessageFromWXResp+responseWithTextOrMediaMessage.m
+END
+SendMessageToWXReq+requestWithTextOrMediaMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/WXHelper/SendMessageToWXReq+requestWithTextOrMediaMessage.m
+END
+WXApiManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/WXHelper/WXApiManager.m
+END
+WXMediaMessage+messageConstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/hsyh/!svn/ver/2326/trunk/03%E7%BC%96%E7%A0%81/iOS/MicroBusinessBank/MicroBusinessBank/Helper/WXHelper/WXMediaMessage+messageConstruct.h
+END
